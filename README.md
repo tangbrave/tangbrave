@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F78D9C&center=true&lines=Have+a+nice+day!)](https://git.io/typing-svg)
 ### Hi there 👋
-
+- 😄 Nice to meet you！
+- 
 <!--
 **tangbrave/tangbrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
